@@ -1,0 +1,104 @@
+.asli{
+    background-color: silver;
+    width: 90%;
+    height: 700px;
+    margin-left: 50px;
+    margin-top: 25px;
+    position: fixed;
+    border-radius: 5%;
+}
+
+.ofoghi{
+    width: 1330px;
+    height: 2px;
+    background-color: black;
+    margin-left: 50px;
+    margin-top: 200px;
+    position: absolute;
+}
+
+
+#user{
+    margin-top: 35px;
+    margin-left: 100px;
+    position: absolute;
+    font-size: x-large;
+}
+
+#p1{
+    margin-top: 35px;
+    margin-left: 170px;
+    position: absolute;
+    font-size: x-large;
+}
+
+.cpu{
+    margin-top: 100px;
+    margin-left: 100px;
+    position: absolute;
+    font-size: x-large;
+}
+
+#p2{
+    margin-top: 62px;
+    margin-left: 170px;
+    position: absolute;
+    font-size: x-large;
+}
+
+
+#sang{
+    position: relative;
+    display: inline;
+    margin-top: 250px;
+    margin-left: 150px;
+    width: 250px;
+    cursor: pointer;
+}
+
+
+#khaghaz{
+    position: relative;
+    display: inline;
+    height: 197px;
+    width: 250px;
+    margin-left: 200px;
+    cursor: pointer;
+}
+
+#gheichi{
+    position: relative;
+    display: inline;
+    height: 197px;
+    width: 250px;
+    margin-left: 200px;
+    cursor: pointer;
+}
+
+
+#sangc{
+    position: relative;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+#khaghazc{
+    position: relative;
+    height: 197px;
+    width: 250px;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+
+#gheichic{
+    position: relative;
+    height: 197px;
+    width: 250px;
+    margin-left: 610px;
+    margin-top: 30px;
+}
+
+.gamehiden{
+    display:none;
+}
